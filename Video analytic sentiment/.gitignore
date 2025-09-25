@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Gemini CLI
+.gemini/
+.specify/
+
+# Dependencies (should be installed by user)
+ffmpeg/
+
+# Virtual environment
+.venv
+venv
+env

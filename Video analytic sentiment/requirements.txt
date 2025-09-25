@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+requests
+yt-dlp
+vaderSentiment
+underthesea
+openai-whisper
+pytest
+typer
+"python-multipart<0.0.1,>=0.0.0"
+yt-dlp
